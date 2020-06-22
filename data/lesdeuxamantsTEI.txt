@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Les deux amants</title>
+<author>Marie de France</author>
+</titleStmt>
+<publicationStmt>
+<p>Manuscrit datant du XIIIe siècle</p>
+</publicationStmt>
+<sourceDesc>
+<p>Copie de Wikisource</p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div>
+<lgs>
+<l n="1">Jadis avint en Normendie</l>
+<l n="2">Une aventure mut oïe</l>
+<l n="3">De Deus Amanz qui s’entr’amèrent</l>
+<l n="4">Par amur ambedeus finèrent ;</l>
+<l n="5">Un Lai en firent li Bretun</l>
+<l n="6">Des Deus Amanz reçuit le nun.</l>
+<l n="7">﻿Vérités est ke en Neustrie</l>
+<l n="8">Que nus apelum Normendie</l>
+<l n="9">Ad un haut munt merveilles grant,</l>
+<l n="10">Là-sus gisent li Dui Enfant.</l>
+<l n="11">Près de cel munt à une part</l>
+<l n="12">Par grant cunseil è par esgart,</l>
+<l n="13">Une Cité fist faire un Reis</l>
+<l n="14">Qui estoit Sire des Pistreis ;</l>
+<l n="15">Des Pistréins la fist numer,</l>
+<l n="16">E Pistre la fist apeler.</l>
+<l n="17">Tuz-jurs ad puis duré li nuns</l></lg>
+<lg>
+<l n="18">Uncore i ad vile è meisuns :</l>
+<l n="19">Nus savum bien de la Cuntrée.</l>
+<l n="20">Li Vals de Pistre est nomée.</l>
+<l n="21">﻿Li Reis ot une fille bele</l>
+<l n="22">Mut curteise Daméïsele ;</l>
+<l n="23">Cunfortez fu par la Meschine</l>
+<l n="24">Puisque perdue ot la Réïne :</l>
+<l n="25">Plusurs à mal li aturnèrent</l>
+<l n="26">Li suen méisme le blasmèrent.</l>
+<l n="27">Quant il oï qu’hum en parla</l>
+<l n="28">Mut fu dolent, mut li pesa ;</l>
+<l n="29">Cumenca sei à purpenser</l>
+<l n="30">Cument s’en purrat délivrer,</l>
+<l n="31">Que nul sa fille ne quesist</l>
+<l n="32">E luinz, è près, manda è dist :</l>
+<l n="33">Ki sa fille vodreit aveir,</l>
+<l n="34">Une chose séust de veir,</l>
+<l n="35">Sortiz esteit è destiné.</l>
+<l n="36">De sur le munt fors la cité</l></lg>
+<lg>
+<l n="37">Entre ses bras la portereit</l>
+<l n="38">Si que ne se reposereit.</l>
+<l n="39">Quant la novele fu couneue</l>
+<l n="40">È par tute la cuntrée seue,</l>
+<l n="41">Assez plusurs si i allèrent</l>
+<l n="42">Qui nule rien n’i espleitèrent ;</l>
+<l n="43">E tuz ceus qui tant s’esforçoent</l>
+<l n="44">Qui enmi le munt la portoent,</l>
+<l n="45">Ne poeient plus avant aler,</l>
+<l n="46">Il lur esteut laissier ester.</l>
+<l n="47">Lungtens remist cele à doner</l>
+<l n="48">Que nul ne la volt demander.</l>
+<l n="49">﻿Al païs ot un Damisel</l>
+<l n="50">Fiz à un Cunte, gent è bel ;</l>
+<l n="51">De ben faire, pur aveir pris,</l>
+<l n="52">Sur tuz autres s’est entremis.</l>
+<l n="53">En la Curt le Reis conversot,</l>
+<l n="54">Assez sovent i sujurnot ;</l>
+<l n="55">La fille al Réi ama</l>
+<l n="56">E maintefeiz l’areisuna</l>
+<l n="57">Qu’ele s’amur li otréiast</l>
+<l n="58">E par france druerie l’amast,</l>
+<l n="59">Pur ceo k’il est pruz è curteis</l>
+<l n="60">E pur ceo le prisot li Reis ;</l>
+<l n="61">Ensemble parlèrent sovent</l>
+<l n="62">E s’entramèrent léaument,</l>
+<l n="63">E célereient à lur poeir</l>
+<l n="64">Que hum nes’ puist aperceveir.</l></lg>
+<lg>
+<l n="65">La suffrance mut lur greva</l>
+<l n="66">Mès li Vallez se purpensa</l>
+<l n="67">Que meuz en volt les maus suffrir,</l>
+<l n="68">Que trop haster è dunc faillir ;</l>
+<l n="69">Mut fu par li amur destreiz,</l>
+<l n="70">Puis avient si qu’à une feiz</l>
+<l n="71">Qu’à s’Amie vient li Damiseas</l>
+<l n="72">Qui tant est sages, pruz è beas,</l>
+<l n="73">Sa pleinte li mustra è dist :</l>
+<l n="74">Anguissusement li requist</l>
+<l n="75">Que s’en alast ensemble od lui,</l>
+<l n="76">Ne poeit mès suffrir l’enui ;</l>
+<l n="77">Si à son Père la demandot</l>
+<l n="78">Il saveit bien que tant l’amot</l>
+<l n="79">Que pas ne li vodreit doner,</l>
+<l n="80">Si il ne la puist aporter</l>
+<l n="81">Entre ses braz ensum le munt.</l>
+<l n="82">La Damisele li respunt :</l>
+<l n="83">Amis, fait-ele, jeo sai bien</l>
+<l n="84">Si ne me porteriez pur rien ;</l>
+<l n="85">N’estes mie si vertuus,</l>
+<l n="86">Si jo m’en vois ensemble od vus,</l>
+<l n="87">Mi Pères auereit è doel è ire</l>
+<l n="88">Ne vivereit mie sanz martire.</l>
+<l n="89">Certes tant l’aim è si fais chier</l>
+<l n="90">Jeo nel’ vodréie curucier ;</l>
+<l n="91">Autre cunseil vus estuet prendre,</l>
+<l n="92">Kar cest ne voil-jeo pas entendre.</l></lg>
+<lg>
+<l n="93">﻿En Salerne ai une Parente</l>
+<l n="94">Riche femme, mut a grant rente ;</l>
+<l n="95">Plus de trente ans i ad esté</l>
+<l n="96">L’art de phisike ad tant usé,</l>
+<l n="97">Que mut est saines de mescines,</l>
+<l n="98">Tant cunust herbes è racines ;</l>
+<l n="99">Si vus à li volez aler</l>
+<l n="100">E mes lettres od vus porter,</l>
+<l n="101">E mustrer li vostre aventure,</l>
+<l n="102">Ele en prendra cunseil è cure.</l>
+<l n="103">Uns lettuaires vous dunrat</l>
+<l n="104">E teus beivres vus baillerat,</l>
+<l n="105">Que tut vus recunforterunt</l>
+<l n="106">E bone vertu vus dunrunt.</l>
+<l n="107">Quant en cest païs revendrez</l>
+<l n="108">A mun Père me requèrez :</l>
+<l n="109">Il vus en tendrat pur enfant,</l>
+<l n="110">Si vus dirat le cunvenant,</l>
+<l n="111">Que à nul hum ne me dunrat</l>
+<l n="112">Jà cele peine ni mettrat,</l>
+<l n="113">Si al munt ne me peust porter</l>
+<l n="114">Entre ses bras sanz reposer.</l>
+<l n="115">﻿Li Vallez oï la novele</l>
+<l n="116">E le cunseil à la Pucele,</l>
+<l n="117">Mut en fu lié, si la mercie,</l>
+<l n="118">Cungié demande à s’Amie.</l>
+<l n="119">En sa cuntrée en est alez,</l>
+<l n="120">Hastivement s’est atornez</l></lg>
+<lg>
+<l n="121">De riches dras è de divers</l>
+<l n="122">Ce palefreiz è de sumers,</l>
+<l n="123">De ses humes les plus privez,</l>
+<l n="124">A li Danzeas od sei menez.</l>
+<l n="125">A Salerne vait séjurner</l>
+<l n="126">A l’Aunte s’Amie vet parler</l>
+<l n="127">De sa part li dunat un brief :</l>
+<l n="128">Quant el l’ot lu de chief en chief</l>
+<l n="129">Ensemble od li l’a retenu</l>
+<l n="130">Tant que sun estre ad tant séu.</l>
+<l n="131">Par mescines l’ad esforcié,</l>
+<l n="132">Un tel beivre li ad chargié,</l>
+<l n="133">Jà ne sera tant travailliez.</l>
+<l n="134">Ne si ateint, ne si chargiez,</l>
+<l n="135">Ne li resfrechit tut le cors,</l>
+<l n="136">Néis les vaines, ne les os,</l>
+<l n="137">E qu’il n’en ait tele vertu</l>
+<l n="138">Si-tost cum il en aura bu,</l>
+<l n="139">Puis le remeine en sun païs ;</l>
+<l n="140">Le beivre ad en un vessel mis</l>
+<l n="141">Li Damiseas joios è liez.</l>
+<l n="142">Quant arière fu repeiriez</l>
+<l n="143">Ne séjurnat pas en la terre,</l>
+<l n="144">Al Rei ala sa fille quere,</l>
+<l n="145">Qu’il li donast, il la prendreit,</l>
+<l n="146">En-sum le munt la portereit.</l>
+<l n="147">Li Réis nel’ escundist mie,</l>
+<l n="148">Mès mut le tint à grant folie,</l></lg>
+<lg>
+<l n="149">Pur ceo qu’il iert de jéosne âge ;</l>
+<l n="150">Tant produm, è vaillant è sage</l>
+<l n="151">Unt asaié icele afaire</l>
+<l n="152">Ki n’en purent à nul chief traire.</l>
+<l n="153">Terme li a numé et pris,</l>
+<l n="154">Ses hume mande è ses amis</l>
+<l n="155">E tuz ceus k’il poeit aveir,</l>
+<l n="156">Ne ni laissa nul remaneir,</l>
+<l n="157">Pur sa Fille, pur le Vallet</l>
+<l n="158">Ki en aventure se met,</l>
+<l n="159">De li porter en-sum le munt,</l>
+<l n="160">De tutes parz venus i sunt.</l>
+<l n="161">La Dameisele s’aturna</l>
+<l n="162">Mut se destreint, è mut juna,</l>
+<l n="163">E à manger pur aléger</l>
+<l n="164">Qu’od sun ami voleit aler.</l>
+<l n="165">Al jur quant tuz furent venu</l>
+<l n="166">Le Dameisel premier i fu,</l>
+<l n="167">Sun beivre ni ublia mie</l>
+<l n="168">Devers Seigne en la praerie</l>
+<l n="169">Fu la grant gent tut assemblée,</l>
+<l n="170">Li Reis ad sa Fille menée.</l>
+<l n="171">N’ot drap vestu fors la chemise ;</l>
+<l n="172">Entre ses bras l’aveit cil prise,</l>
+<l n="173">La fiolette od tut sun beivre,</l>
+<l n="174">Bien seit qu’ele nel’ vout déceivre ;</l>
+<l n="175">En sa main porter li baille.</l>
+<l n="176">Mès jeo creim que poi li vaille,</l></lg>
+<lg>
+<l n="177">Kar n’ot en lui point de mesure,</l>
+<l n="178">Od lui s’en veit grant aléure.</l>
+<l n="179">Le munt munta desi qu’en-mi ;</l>
+<l n="180">Pur la joïe qu’il od de li</l>
+<l n="181">De sun beivre ne li membra :</l>
+<l n="182">Ele senti qu’il abaissa</l>
+<l n="183">Amis, fet-ele, kar bevez</l>
+<l n="184">Jeo sai bien que vous vous lassez</l>
+<l n="185">Si recuvrez votre vertu.</l>
+<l n="186">Le Damisel a respondu :</l>
+<l n="187">Bele, jeo sens tut fort mun quer</l>
+<l n="188">Ne m’arestereie à nul fuer</l>
+<l n="189">Si lungement que jeo béusse</l>
+<l n="190">Pur quei treis pas aller péusse ;</l>
+<l n="191">Ceste gent nus escriereient</l>
+<l n="192">De lur noise m’esturdireient,</l>
+<l n="193">Tost me porreïent desturber</l>
+<l n="194">Jo nel’ voil pas ci arester.</l>
+<l n="195">Quant les deus parz fu munté suz</l>
+<l n="196">Pur un petit qu’il ne chiet jus ;</l>
+<l n="197">Sovent li prie la Meschine,</l>
+<l n="198">Ami, bevez vostre mescine.</l>
+<l n="199">Jà ne la volt oïr ne creire,</l>
+<l n="200">A grant anguisse od tut l’eire,</l>
+<l n="201">Sur le munt vint, tant se greva,</l>
+<l n="202">Ileoc chaï, puis ne leva ;</l>
+<l n="203">Li quors del’ ventre s’en parti.</l>
+<l n="204">La Pucele vit sun ami,</l></lg>
+<lg>
+<l n="205">Quida qu’il fust en paumeisuns</l>
+<l n="206">Lez lui se met en genuilluns ;</l>
+<l n="207">Sun beivre li voleit doner</l>
+<l n="208">Mès il ne pot od lui parler.</l>
+<l n="209">Issi murut cum jeo vus di,</l>
+<l n="210">Ele le pleint à mut haut cri ;</l>
+<l n="211">Puis a jeté è espendu</l>
+<l n="212">Le veissel ù le beivre fu :</l>
+<l n="213">Li muns en fu bien avusez,</l>
+<l n="214">Mut en a esté amendez.</l>
+<l n="215">Tut le païs è la cuntrée,</l>
+<l n="216">Meinte bone herbe i unt trovée,</l>
+<l n="217">Ki del’ beivre orent racine.</l>
+<l n="218">﻿Or vus dirai de la Mescine,</l>
+<l n="219">Puisque sun Ami ot perdu,</l>
+<l n="220">Unkes si dolente ne fu,</l>
+<l n="221">Lez lui se cuche è estent,</l>
+<l n="222">Entre ses braz l’estreint è prent,</l>
+<l n="223">Sovent li baise oïl è buche,</l>
+<l n="224">Li dols de li al quor la tuche ;</l>
+<l n="225">Ilec murut la Dameisele,</l>
+<l n="226">Qui tant est pruz, è sage et bele.</l>
+<l n="227">Li Reis è cil lur atendeient</l>
+<l n="228">Quant unt vu que il ne veneient</l>
+<l n="229">Vunt après eus sis unt trovez,</l>
+<l n="230">Li Reis chiet à terre paumez.</l>
+<l n="231">Quant pot parler, grand dol démeine</l></lg>
+<lg>
+<l n="232">Ki si firent la gent foreine.</l>
+<l n="233">﻿Treis jurs les unt tenu sur terre</l>
+<l n="234">Sarcu de marbre firent quere</l>
+<l n="235">Les Deus Enfans unt mis dedenz.</l>
+<l n="236">Par le cunseil de cele genz,</l>
+<l n="237">Sur le munt si les enfuïrent,</l>
+<l n="238">E puis à-tant se départirent.</l>
+<l n="239">﻿Pur l’aventure des Enfanz</l>
+<l n="240">Ad nun li Munz des Deus Amanz ;</l>
+<l n="241">Issi avint cum dit vus ai</l>
+<l n="242">Li Bretun en firent un Lai.</l></lg>
+<lg></lg>
+<lg>
+</lg>
+</div>
+</body>
+</text>
+</tei>
